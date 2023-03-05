@@ -36,7 +36,7 @@ This is a Ansible role for installing and maintaining the zabbix-server. This wi
 
 # Requirements
 
-## Operating systems
+## Operating systems  
 
 This role will work on the following operating systems:
 
