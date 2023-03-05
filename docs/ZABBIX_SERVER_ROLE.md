@@ -47,7 +47,7 @@ This role will work on the following operating systems:
 So, you'll need one of those operating systems.. :-)
 Please send Pull Requests or suggestions when you want to use this role for other Operating systems.
 
-## Ansible 2.10 and higher
+## Ansible 2.10  and higher
 
 With the release of Ansible 2.10, modules have been moved into collections.  With the exception of ansible.builtin modules, this means additonal collections must be installed in order to use modules such as seboolean (now ansible.posix.seboolean).  The following collection is now required: `ansible.posix`.  Installing the collection:
 
